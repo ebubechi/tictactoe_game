@@ -6,7 +6,7 @@ A Flutter project trying out game dev.
 
 <p align="center">
   <img src="assets/images/img1" width="350" title="splash screen">
-  <img src="assets/images/img2" width="350" alt="main Screen">
+  <img src="https://github.com/ebubechi/tictactoe_game/main/assets/images/img2" width="350" alt="main Screen">
 </p>
 <p align="center">
   <img src="assets/images/img3" width="350" title="splash screen">
